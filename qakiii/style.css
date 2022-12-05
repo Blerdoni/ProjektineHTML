@@ -118,18 +118,17 @@ font-weight: 800;
  }
 
  .img2 img{
-
-
 margin-left: 150px;
 
 width: 940px;
 height: 360px;
 margin-top: 50px;
+overflow: hidden;
 
-border: 5px solid rgb(105, 105, 105);
-
-
+border: 5px solid rgb(105, 105, 105); 
  }
+
+ 
 
  .lorem2 h1 {
 
